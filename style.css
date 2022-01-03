@@ -1,0 +1,19 @@
+body {
+	background-image: url('bggif.gif');
+	text-align: center;
+	color: white;
+	font-size: 21px;
+	font-family: Verdana, sans-serif;
+}
+a:link {
+  color: cyan;
+}
+a:visited {
+  color: cyan;
+}
+a:hover {
+  color: orange;
+}
+a:active {
+  color: orange;
+}
